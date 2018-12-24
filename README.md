@@ -20,7 +20,7 @@
 #### Example run:
     4*( 7+8)*2
     478+*2
-**Note**: First line in an input.
+**Note**: First line is an input.
 
 Darpan Beri
 
